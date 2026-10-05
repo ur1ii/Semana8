@@ -1,0 +1,12 @@
+Nombre: Humberto Rene
+ Apellidos: Ruiz Rodriguez
+ Edad: 18
+ Carrera: Ing De Sistemas
+Nombres: Humberto Rene
+ Apellidos: Ruiz Rodriguez
+ Edad: 18
+ Carrera: Ing De Sistemas
+Nombres: Jesu Cristo
+ Apellidos: Wong Wong
+ Edad: 67
+ Carrera: Laburo
