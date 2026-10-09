@@ -8,7 +8,7 @@ carrera = input("Ingresa tu carrera: ")
 
 datos = f"Nombres: {nombres.title()}\n Apellidos: {apellidos.title()}\n Edad: {edad.title()}\n Carrera: {carrera.title()}\n"
 
-with open("estudiante.txt", "a+", encoding="utf-8") as archivo:
+with open("estudiante.xlsx", "a+", encoding="utf-8") as archivo:
     archivo.write(datos)
 
 print("Archivo creado satisfactoriamente...")
